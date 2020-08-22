@@ -1,6 +1,6 @@
 ### Golden-voyage
 Code I've written for different courses during my physics/astrophysics, robotics or math bachelor's degrees. These programs are mostly of some decent size as I have chosen not to upload smaller scripts that span just a couple of lines with no functions or solution to a complex problem.\
-It'll be appearant that towards the third year I started using more classes and functions as well as document code. 
+Towards the third year I started using more classes and functions as well as document code. 
 
 ## First year courses
 [FYS-MEK1110] Mechanics [Python]\
