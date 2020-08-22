@@ -1,0 +1,15 @@
+"#.*(?:$|\n)": comment
+"\b(True|False|None)\b": special
+"\b(while)\b": whileloop
+"\b(for|in)\b": forloop
+"\b(if|elif|else)\b": ifblocks
+"\b(break)\b": break
+"\b(def)\b": functiondef
+"\".*(?:")": string
+"\'.*(?:')": string2
+"\b(import|from|as)\b": import
+"\b^class\b": class
+"\b(print)(?=\()\b": print
+"\b(return)\b": return
+"\b(self)\b": self
+"\b(and|or|not)\b": andornot

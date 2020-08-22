@@ -1,0 +1,15 @@
+"//.*(?:$|\n)": comment
+"\b(false|true|null)\b": special
+"\b(while)\b": whileloop
+"\b(for)\b": forloop
+"\b(if|else if|else)\b": ifblocks
+"\b(break)\b": break
+"(System\.out\.println)": print
+"\b(return)\b": return
+"\b(thing)\b": thing
+"\".*(?:")": string
+"\'.*(?:')": string2
+"\b(import)\b": import
+"\b^class\b": class
+"\b(String|int|Boolean)\b": variable
+"\b(public|static|void|private|protected)\b": methoddecl

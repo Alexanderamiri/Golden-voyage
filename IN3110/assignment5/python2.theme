@@ -1,0 +1,15 @@
+comment: 36;10;13
+special: 36;10;1310
+whileloop: 36;10;204
+forloop: 36;10;204
+ifblocks: 36;10;204
+break: 36;10;204
+functiondef: 36;10;93
+string: 36;10;199
+string2: 36;10;199
+import: 36;10;1210
+class: 36;10;198
+print: 36;10;110
+return: 36;10;204
+self: 36;10;204
+andornot: 36;10;174

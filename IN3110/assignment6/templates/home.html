@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Assingment 6</title>
+</head>
+<body>
+
+<h2> Assignment 6</h2>>
+
+<form id="form1" action="/makeplot" method="POST" enctype="multipart/form-data">
+    <select id="firstselect" name= features1  >
+        <option value="pregnant">Pregnant</option>
+        <option value="glucose">Glucose</option>
+        <option value="pressure">Pressure</option>
+        <option value="triceps">Triceps</option>
+        <option value="insulin">Insulin</option>
+        <option value="mass">Mass</option>
+        <option value="pedigree">Pedigree</option>
+        <option value="age">Age</option>
+</select>
+    <select id="secondselect" name= features2 method="GET" >
+        <option value="pregnant">Pregnant</option>
+        <option value="glucose">Glucose</option>
+        <option value="pressure">Pressure</option>
+        <option value="triceps">Triceps</option>
+        <option value="insulin">Insulin</option>
+        <option value="mass">Mass</option>
+        <option value="pedigree">Pedigree</option>
+        <option value="age">Age</option>
+</select>
+
+    <select id="classifier" name= classifier>
+        <option value="KNeighborsClassifier(n_neighbors=3)">KNeighbors</option>
+        <option value="SVC(kernel='linear')">Linear</option>
+        <option value="GaussianNB()">GaussianNB</option>
+</select>
+<input type="submit" name="Render" value='Submit' >
+</form>
+<p><a href="{{ url_for('docs') }}">Documentation of the code(HELP PAGE)</a></p>
+</body>
+</html>
