@@ -1,4 +1,4 @@
-### Golden-voyage
+### Golden-voyage ! :milky_way:
 Code I've written for different courses during my physics/astrophysics, robotics or math bachelor's degrees. These programs are mostly of some decent size as I have chosen not to upload smaller scripts that span just a couple of lines with no functions or solution to a complex problem.\
 Towards the third year I started using more classes and functions as well as document code. 
 
