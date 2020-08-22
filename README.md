@@ -11,7 +11,7 @@ Towards the third year I started using more classes and functions as well as doc
 ## Second year courses
 [AST2000] Introduction to Astrophysics [Python]\
 [FYS2130] Oscillations and Waves [Python]\
-[IN1910] Programming with Scientific Applications [Python]\
+[IN1910] Programming with Scientific Applications [Python] [C++]\
 [IN3110] Problem solving with high-level language [Python]
 
 ## Third year courses
