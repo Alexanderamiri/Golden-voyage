@@ -15,9 +15,10 @@ Towards the third year I started using more classes and functions as well as doc
 [IN3110] Problem solving with high-level language [Python]
 
 ## Third year courses
+[FYS2160] Thermodynamics and Statistical Physics [Python]\
 [AST3220] Cosmology I [Python]\
-[AST3310] Astrophysical Plasma and Stellar Interiors  [Python]\
-[FYS2160] Thermodynamics and Statistical Physics [Python]
+[AST3310] Astrophysical Plasma and Stellar Interiors  [Python]
+
 
 
 [MAT-INF1100]: https://github.com/Alexanderamiri/Golden-voyage/tree/master/MAT-INF1100
