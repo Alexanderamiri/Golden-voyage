@@ -17,7 +17,7 @@ Towards the third year I started using more classes and functions as well as doc
 ## Third year courses
 [FYS2160] Thermodynamics and Statistical Physics [Python]\
 [AST3220] Cosmology I [Python]\
-[AST3310] Astrophysical Plasma and Stellar Interiors  [Python]
+[AST3310] Astrophysical Plasma and Stellar Interiors  [Python] (A course which I had to deploy the most tools and knowledge in Python)
 
 
 
