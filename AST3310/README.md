@@ -6,3 +6,7 @@ Three important areas
 - Numerical analysis, Error propagation and stability 
 - Nuclear reactions
 - Writing scientific reports
+
+Project 1: Simulation a stars core and it's energy output\
+Project 2: Simulating convection and radiation transport\
+Project 3: Numerical analysis of stability and animation of complete star model
