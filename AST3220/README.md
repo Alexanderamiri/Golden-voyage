@@ -9,4 +9,4 @@ Three important areas
 
 Project 1: Modeling a universe with an extra dimension
 Project 2: Modeling a universe with weakly interactive massive particles (WIMPs)
-Project 3: Slow-roll approximation
+Project 3: Slow-roll approximation of inflation
