@@ -1,6 +1,6 @@
 ## AST2000 – Introduction to Astrophysics
 
-### This course is about a consice introduction to Astrophysics with the primary challenges being numerical analysis of complex astrophysical problems as well as an overview of the mathematics involved in the field 
+### This course is about a consice introduction to Astrophysics with the primary challenges being numerical analysis of complex astrophysical problems, as well as an overview of the mathematics involved in the field 
 
 
 Three important areas
