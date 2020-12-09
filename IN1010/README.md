@@ -14,4 +14,4 @@ Oblig 4: Medical system with file reading\
 Oblig 5: Labyrinth with pathfinding\
 Oblig 6: Cryptograph system with access and queue\
 Oblig 7: Labyrinth with pathfinding with GUI\
-Exam   : Text based treasure hunt game
+Exam     : Text based treasure hunt game
