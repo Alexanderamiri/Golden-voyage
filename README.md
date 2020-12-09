@@ -21,14 +21,14 @@ Towards the third year I started using more classes and functions as well as doc
 
 
 
-[MAT-INF1100]: https://github.com/Alexanderamiri/Golden-voyage/tree/master/MAT-INF1100
-[STK1100]: https://github.com/Alexanderamiri/Golden-voyage/tree/master/STK1100
-[IN1010]: https://github.com/Alexanderamiri/Golden-voyage/tree/master/IN1010
-[IN1910]: https://github.com/Alexanderamiri/Golden-voyage/tree/master/IN1910
-[IN3110]: https://github.com/Alexanderamiri/Golden-voyage/tree/master/IN3110
-[FYS-MEK1110]: https://github.com/Alexanderamiri/Golden-voyage/tree/master/FYS-MEK1110
-[FYS2130]: https://github.com/Alexanderamiri/Golden-voyage/tree/master/
-[FYS2160]: https://github.com/Alexanderamiri/Golden-voyage/tree/master/FYS2160
-[AST2000]: https://github.com/Alexanderamiri/Golden-voyage/tree/master/AST2000
-[AST3220]: https://github.com/Alexanderamiri/Golden-voyage/tree/master/AST3220
-[AST3310]: https://github.com/Alexanderamiri/Golden-voyage/tree/master/AST3310
+[MAT-INF1100]: https://www.uio.no/studier/emner/matnat/math/MAT-INF1100/index-eng.html
+[STK1100]: https://www.uio.no/studier/emner/matnat/math/STK1100/index-eng.html
+[IN1010]: https://www.uio.no/studier/emner/matnat/ifi/IN1010/index-eng.html
+[IN1910]: https://www.uio.no/studier/emner/matnat/ifi/IN1910/index-eng.html
+[IN3110]: https://www.uio.no/studier/emner/matnat/ifi/IN3110/index.html
+[FYS-MEK1110]: https://www.uio.no/studier/emner/matnat/fys/FYS-MEK1110/index-eng.html
+[FYS2130]: https://www.uio.no/studier/emner/matnat/fys/FYS2130/index-eng.html
+[FYS2160]: https://www.uio.no/studier/emner/matnat/fys/FYS2160/index-eng.html
+[AST2000]: https://www.uio.no/studier/emner/matnat/astro/AST2000/index-eng.html
+[AST3220]: https://www.uio.no/studier/emner/matnat/astro/AST3220/index-eng.html
+[AST3310]: https://www.uio.no/studier/emner/matnat/astro/AST3310/index-eng.html
